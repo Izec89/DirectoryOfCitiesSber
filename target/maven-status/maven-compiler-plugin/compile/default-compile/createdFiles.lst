@@ -1,0 +1,4 @@
+com/izec/repository/CityRepository.class
+com/izec/domain/City.class
+com/izec/Application.class
+com/izec/service/CityService.class
